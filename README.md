@@ -15,8 +15,8 @@
 ### Folder Structure
 
     .
-    ├── multiply.cpp                 # Parallelized Version
-    ├── Makefile                     # Recipes for building and running your program
+    ├── multiply.cpp            # Parallelized Version
+    ├── Makefile                # Recipes for building and running your program
     └── README.md
 
 ## Commands
